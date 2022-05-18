@@ -4,5 +4,5 @@
 - Remove full row
 - And store/ update data to Local Storage
 - 
-Full Project done by following OOP Paradigm in JavaScript
+Full Project was done by following OOP Paradigm in JavaScript
 
